@@ -8,14 +8,6 @@ function is_live() {
 	return true;
 }
 
-if ( is_live() ) {
-	if ( file_exists( 'cache/cached.html' ) && time() - 3600 < filemtime( 'cache/cached.html' ) ) {
-	    include( 'cache/cached.html' );
-	    exit;
-	}
-	ob_start();
-}
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -81,9 +73,3 @@ if ( is_live() ) {
 
 </body>
 </html>
-
-<?php
-
-if ( is_live() ) {
-	file_put_contents( 'cache/cached.html', ob_get_flush() );
-}
