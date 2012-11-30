@@ -1,0 +1,408 @@
+{
+	"data": [
+		{
+			"name": "About.me (blue)",
+			"hex": "00405d"
+		},
+		{
+			"name": "About.me (yellow)",
+			"hex": "ffcc33"
+		},
+		{
+			"name": "Adobe",
+			"hex": "ff0000"
+		},
+		{
+			"name": "Aim",
+			"hex": "fcd20b"
+		},
+		{
+			"name": "Amazon",
+			"hex": "e47911"
+		},
+		{
+			"name": "Android",
+			"hex": "a4c639"
+		},
+		{
+			"name": "Angie's List",
+			"hex": "7fbb00"
+		},
+		{
+			"name": "AOL",
+			"hex": "0060a3"
+		},
+		{
+			"name": "Atlassian",
+			"hex": "003366"
+		},
+		{
+			"name": "Behance",
+			"hex": "053eff"
+		},
+		{
+			"name": "Big Cartel",
+			"hex": "97b538"
+		},
+		{
+			"name": "Blogger",
+			"hex": "fc4f08"
+		},
+		{
+			"name": "Carbonmade",
+			"hex": "613854"
+		},
+		{
+			"name": "Delicious",
+			"hex": "205cc0"
+		},
+		{
+			"name": "Designmoo",
+			"hex": "e54a4f"
+		},
+		{
+			"name": "Deviantart",
+			"hex": "4e6252"
+		},
+		{
+			"name": "Disqus (blue)",
+			"hex": "59a3fc"
+		},
+		{
+			"name": "Disqus (orange)",
+			"hex": "db7132"
+		},
+		{
+			"name": "Dribbble",
+			"hex": "ea4c89"
+		},
+		{
+			"name": "Dropbox",
+			"hex": "3d9ae8"
+		},
+		{
+			"name": "Drupal",
+			"hex": "0c76ab"
+		},
+		{
+			"name": "eBay",
+			"hex": "89c507"
+		},
+		{
+			"name": "Ember",
+			"hex": "f05e1b"
+		},
+		{
+			"name": "Engadget",
+			"hex": "00bdf6"
+		},
+		{
+			"name": "Envato",
+			"hex": "528036"
+		},
+		{
+			"name": "Etsy",
+			"hex": "eb6d20"
+		},
+		{
+			"name": "Evernote",
+			"hex": "5ba525"
+		},
+		{
+			"name": "Fab.com",
+			"hex": "dd0017"
+		},
+		{
+			"name": "Facebook",
+			"hex": "3b5998"
+		},
+		{
+			"name": "Flickr (blue)",
+			"hex": "0063dc"
+		},
+		{
+			"name": "Flickr (pink)",
+			"hex": "ff0084"
+		},
+		{
+			"name": "Forrst",
+			"hex": "5b9a68"
+		},
+		{
+			"name": "Foursquare",
+			"hex": "25a0ca"
+		},
+		{
+			"name": "Garmin",
+			"hex": "007cc3"
+		},
+		{
+			"name": "GetGlue",
+			"hex": "2d75a2"
+		},
+		{
+			"name": "Gimmebar",
+			"hex": "f70078"
+		},
+		{
+			"name": "GitHub",
+			"hex": "4183c4"
+		},
+		{
+			"name": "Google+",
+			"hex": "db4a39"
+		},
+		{
+			"name": "Grooveshark",
+			"hex": "f77f00"
+		},
+		{
+			"name": "HootSuite",
+			"hex": "003366"
+		},
+		{
+			"name": "Heroku (light)",
+			"hex": "c7c5e6"
+		},
+		{
+			"name": "Heroku (dark)",
+			"hex": "6567a5"
+		},
+		{
+			"name": "HTML5",
+			"hex": "ec6231"
+		},
+		{
+			"name": "IMDb",
+			"hex": "f3ce13"
+		},
+		{
+			"name": "Instagram",
+			"hex": "634d40"
+		},
+		{
+			"name": "Intel",
+			"hex": "0071c5"
+		},
+		{
+			"name": "Intuit",
+			"hex": "365ebf"
+		},
+		{
+			"name": "Kickstarter",
+			"hex": "87c442"
+		},
+		{
+			"name": "kippt",
+			"hex": "e03500"
+		},
+		{
+			"name": "LastFM",
+			"hex": "c3000d"
+		},
+		{
+			"name": "LinkedIn",
+			"hex": "0e76a8"
+		},
+		{
+			"name": "Meetup",
+			"hex": "e51937"
+		},
+		{
+			"name": "Nokia",
+			"hex": "183693"
+		},
+		{
+			"name": "NVIDIA",
+			"hex": "76b900"
+		},
+		{
+			"name": "Path",
+			"hex": "e41f11"
+		},
+		{
+			"name": "PayPal (dark)",
+			"hex": "1e477a"
+		},
+		{
+			"name": "PayPal (light)",
+			"hex": "3b7bbf"
+		},
+		{
+			"name": "Pinboard",
+			"hex": "0000e6"
+		},
+		{
+			"name": "Pinterest",
+			"hex": "910101"
+		},
+		{
+			"name": "PlayStation",
+			"hex": "665cbe"
+		},
+		{
+			"name": "Pocket",
+			"hex": "ee4056"
+		},
+		{
+			"name": "Quora",
+			"hex": "a82400"
+		},
+		{
+			"name": "QUOTE.fm",
+			"hex": "66ceff"
+		},
+		{
+			"name": "Rdio",
+			"hex": "008fd5"
+		},
+		{
+			"name": "Readability",
+			"hex": "9c0000"
+		},
+		{
+			"name": "RSS",
+			"hex": "ee802f"
+		},
+		{
+			"name": "Samsung",
+			"hex": "0c4da2"
+		},
+		{
+			"name": "Skype",
+			"hex": "00aff0"
+		},
+		{
+			"name": "Snagajob",
+			"hex": "f47a20"
+		},
+		{
+			"name": "Softonic",
+			"hex": "008ace"
+		},
+		{
+			"name": "SoundCloud",
+			"hex": "ff7700"
+		},
+		{
+			"name": "Spotify",
+			"hex": "64b41a"
+		},
+		{
+			"name": "Sprint",
+			"hex": "fee100"
+		},
+		{
+			"name": "Squarespace",
+			"hex": "121212"
+		},
+		{
+			"name": "Staples",
+			"hex": "cc0000"
+		},
+		{
+			"name": "Stripe",
+			"hex": "008cdd"
+		},
+		{
+			"name": "StumbleUpon",
+			"hex": "f74425"
+		},
+		{
+			"name": "T-Mobile",
+			"hex": "ea0a8e"
+		},
+		{
+			"name": "Technorati",
+			"hex": "40a800"
+		},
+		{
+			"name": "The Next Web",
+			"hex": "ef4423"
+		},
+		{
+			"name": "Tumblr",
+			"hex": "34526f"
+		},
+		{
+			"name": "Twitch.tv",
+			"hex": "6441a5"
+		},
+		{
+			"name": "Twitter",
+			"hex": "00a0d1"
+		},
+		{
+			"name": "TYPO3",
+			"hex": "ff8700"
+		},
+		{
+			"name": "Ubuntu",
+			"hex": "dd4814"
+		},
+		{
+			"name": "Ustream",
+			"hex": "3388ff"
+		},
+		{
+			"name": "Verizon",
+			"hex": "ef1d1d"
+		},
+		{
+			"name": "Vimeo",
+			"hex": "86c9ef"
+		},
+		{
+			"name": "Virb",
+			"hex": "06afd8"
+		},
+		{
+			"name": "Virgin Media",
+			"hex": "cc0000"
+		},
+		{
+			"name": "Wooga",
+			"hex": "5b009c"
+		},
+		{
+			"name": "WordPress (blue)",
+			"hex": "21759b"
+		},
+		{
+			"name": "WordPress (orange)",
+			"hex": "d54e21"
+		},
+		{
+			"name": "WordPress (grey)",
+			"hex": "464646"
+		},
+		{
+			"name": "XBOX",
+			"hex": "9bc848"
+		},
+		{
+			"name": "Yahoo!",
+			"hex": "720e9e"
+		},
+		{
+			"name": "Yandex",
+			"hex": "ffcc00"
+		},
+		{
+			"name": "Yelp",
+			"hex": "c41200"
+		},
+		{
+			"name": "YouTube",
+			"hex": "c4302b"
+		},
+		{
+			"name": "Zerply",
+			"hex": "9dcc7a"
+		},
+		{
+			"name": "Zootool",
+			"hex": "5e8b1d"
+		}
+	]
+}
