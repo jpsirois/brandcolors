@@ -18,7 +18,6 @@ function is_live() {
 	<meta title="description" content="A collection of major brand color codes curated by Galen Gidman.">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="icon" type="image/png" href="img/favicon.png">
-	<script src="js/prefixfree.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script src="js/scripts.js"></script>
 	<script src="//use.typekit.net/xfp6olo.js"></script>
