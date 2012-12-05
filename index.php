@@ -27,9 +27,24 @@ function is_live() {
 </head>
 <body>
 
-	<div class="page-header container" role="banner">
-		<h1>BrandColors</h1>
-		<h3>A collection of major brand color codes curated by <a href="http://twitter.com/galengidman">Galen Gidman</a>.</h3>
+	<script>
+		(function(){
+			var bsa = document.createElement('script');
+				bsa.type = 'text/javascript';
+				bsa.async = true;
+				bsa.src = '//s3.buysellads.com/ac/bsa.js';
+			(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+		})();
+	</script>
+
+	<div class="page-header container cf" role="banner">
+		<div class="branding">
+			<h1>BrandColors</h1>
+			<h3>A collection of major brand color codes curated by <a href="http://twitter.com/galengidman">Galen Gidman</a>.</h3>
+		</div>
+		<div class="ad-packs">
+			<div id="bsap_1280945" class="bsarocks bsap_22541cc0a58ea22a6fb6e7f09c3011c3"></div>
+		</div>
 	</div>
 
 	<div class="toolbar">
@@ -63,13 +78,18 @@ function is_live() {
 		<?php endforeach; ?>
 	</div>
 
-	<?php
-
-		if ( is_live() ) {
-			echo '<script>var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-23917942-3"]);_gaq.push(["_trackPageview"]);(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()</script>';
-		}
-
-	?>
+	<?php if ( is_live() ) {
+		echo "<script>
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-23917942-3']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>";
+	} ?>
 
 </body>
 </html>
