@@ -37,12 +37,8 @@ function is_live() {
 	</script>
 
 	<div class="page-header container cf" role="banner">
-		<div class="branding">
 			<h1>BrandColors</h1>
 			<h3>A collection of major brand color codes curated by <a href="http://twitter.com/galengidman">Galen Gidman</a>.</h3>
-		</div>
-		<div class="ad-packs">
-			<div id="bsap_1280945" class="bsarocks bsap_22541cc0a58ea22a6fb6e7f09c3011c3"></div>
 		</div>
 	</div>
 
@@ -75,6 +71,11 @@ function is_live() {
 				<div class="hex">#<?php echo $brand->hex; ?></div>
 			</div>
 		<?php endforeach; ?>
+	</div>
+
+	<div class="ad">
+		<div id="bsap_1280945" class="bsarocks bsap_22541cc0a58ea22a6fb6e7f09c3011c3"></div>
+		<a href="http://adpacks.com" class="bsap_aplink">via Ad Packs</a>
 	</div>
 
 	<?php if ( is_live() ) {

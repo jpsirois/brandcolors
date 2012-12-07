@@ -41,10 +41,7 @@ h2 {
 	font: 30px/1.33 "freight-sans-pro", sans-serif;
 }
 
-h3 {
-	color: #999;
-	font-size: 14px;
-}
+h3 { color: #999; }
 
 a {
 	color: #333;
@@ -58,35 +55,36 @@ img { display: block; }
 
 /* HEADER */
 
-.page-header { padding: 80px 0 20px; }
-
-.branding {
-	float: left;
-	width: 40%;
+.page-header {
+	padding: 80px 0 20px;
+	text-align: center;
 }
 
-.branding h1 { margin-bottom: 10px; }
+.page-header h1 { margin-bottom: 10px; }
 
-.ad-packs {
-	float: right;
-	width: 40%;
-	text-align: right;
-	font-size: 14px;
+
+/* AD */
+
+.ad {
+	position: fixed;
+	bottom: 80px;
+	right: 20px;
+	width: 130px;
+	padding: 20px;
+	text-align: center;
+	background: #f4f4f4;
+	font-size: 12px;
+	box-shadow: inset 0 0 8px #ddd,
+		0 0 0 2px rgba(0, 0, 0, 0.2);
 }
 
-.bsa_it_i {
-	float: right;
-	margin-left: 20px;
-}
+.bsa_it_i img { margin: 0 auto 10px; }
 
-.bsa_it_t {
-	display: block;
-	font-size: 16px;
-}
+.bsa_it_t { display: block; }
 
 .bsa_it_d {
+	margin: 10px 0;
 	display: block;
-	margin-top: 10px;
 	color: #999;
 }
 
