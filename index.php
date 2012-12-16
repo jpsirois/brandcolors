@@ -78,8 +78,8 @@ function is_live() {
 		<a href="http://adpacks.com" class="bsap_aplink">via Ad Packs</a>
 	</div>
 
-	<?php if ( is_live() ) {
-		echo "<script>
+	<?php if ( is_live() ) : ?>
+		<script>
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-23917942-3']);
 			_gaq.push(['_trackPageview']);
@@ -88,8 +88,8 @@ function is_live() {
 				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
-		</script>";
-	} ?>
+		</script>
+	<?php endif; ?>
 
 </body>
 </html>
