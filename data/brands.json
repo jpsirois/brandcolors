@@ -405,6 +405,10 @@
 			"hex" : "c4302b"
 		},
 		{
+			"name" : "Zendesk",
+			"hex" : "78a300"
+		},
+		{
 			"name" : "Zerply",
 			"hex" : "9dcc7a"
 		},
