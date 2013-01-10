@@ -69,6 +69,10 @@
 			"hex" : "4e6252"
 		},
 		{
+			"name" : "Designer News",
+			"hex" : "2d72da"
+		},
+		{
 			"name" : "Disqus (blue)",
 			"hex" : "59a3fc"
 		},
@@ -159,6 +163,10 @@
 		{
 			"name" : "Grooveshark",
 			"hex" : "f77f00"
+		},
+		{
+			"name" : "Hacker News",
+			"hex" : "ff6600"
 		},
 		{
 			"name" : "HootSuite",
