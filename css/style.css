@@ -144,6 +144,15 @@ body { padding-bottom: 60px; }
 
 .search { float: right; }
 
+.suggest {
+	float: right;
+	margin-right: 20px;
+}
+
+.suggest a { color: #999; }
+
+.suggest a:hover { color: #333; }
+
 
 /* AD */
 
