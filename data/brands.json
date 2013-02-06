@@ -302,7 +302,7 @@
 		},
 		{
 			"name" : "Spotify",
-			"hex" : "64b41a"
+			"hex" : "81b71a"
 		},
 		{
 			"name" : "Sprint",
@@ -315,6 +315,10 @@
 		{
 			"name" : "Staples",
 			"hex" : "cc0000"
+		},
+		{
+			"name" : "Status Chart",
+			"hex" : "d7584f"
 		},
 		{
 			"name" : "Stripe",
