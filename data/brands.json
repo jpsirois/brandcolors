@@ -225,6 +225,10 @@
 			"hex" : "0e76a8"
 		},
 		{
+			"name" : "Mixpanel",
+			"hex" : "#a086d3"
+		},
+		{
 			"name" : "Meetup",
 			"hex" : "e51937"
 		},
