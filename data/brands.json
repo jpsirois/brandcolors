@@ -53,8 +53,16 @@
 			"hex" : "fc4f08"
 		},
 		{
+			"name" : "Boeing",
+			"hex" : "0039a6"
+		},
+		{
 			"name" : "Carbonmade",
 			"hex" : "613854"
+		},
+		{
+			"name" : "Code School",
+			"hex" : "3d4944"
 		},
 		{
 			"name" : "Delicious",
@@ -229,6 +237,10 @@
 			"hex" : "0e76a8"
 		},
 		{
+			"name" : "Livestream",
+			"hex" : "cf0005"
+		},
+		{
 			"name" : "Mixpanel",
 			"hex" : "a086d3"
 		},
@@ -303,6 +315,10 @@
 		{
 			"name" : "Samsung",
 			"hex" : "0c4da2"
+		},
+		{
+			"name" : "Shopify",
+			"hex" : "96bf48"
 		},
 		{
 			"name" : "Skype",
