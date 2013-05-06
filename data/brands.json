@@ -57,6 +57,10 @@
 			"hex" : "0039a6"
 		},
 		{
+			"name" : "Booking.com",
+			"hex" : "003580"
+		},
+		{
 			"name" : "Carbonmade",
 			"hex" : "613854"
 		},
@@ -203,6 +207,10 @@
 		{
 			"name" : "HTML5",
 			"hex" : "ec6231"
+		},
+		{
+			"name" : "IKEA",
+			"hex" : "ffcc33"
 		},
 		{
 			"name" : "IMDb",
@@ -415,6 +423,10 @@
 		{
 			"name" : "Vimeo",
 			"hex" : "86c9ef"
+		},
+		{
+			"name" : "Vine",
+			"hex" : "00a478"
 		},
 		{
 			"name" : "Virb",
