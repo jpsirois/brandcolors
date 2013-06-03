@@ -17,6 +17,10 @@
 			"hex" : "ffcc33"
 		},
 		{
+			"name" : "Addvocate",
+			"hex" : "ff6138"
+		},
+		{
 			"name" : "Adobe",
 			"hex" : "ff0000"
 		},
@@ -323,6 +327,10 @@
 		{
 			"name" : "RSS",
 			"hex" : "ee802f"
+		},
+		{
+			"name" : "Salesforce",
+			"hex" : "1798c1"
 		},
 		{
 			"name" : "Samsung",
