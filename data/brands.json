@@ -201,16 +201,20 @@
 			"hex" : "ff6600"
 		},
 		{
-			"name" : "HootSuite",
-			"hex" : "003366"
-		},
-		{
 			"name" : "Heroku (light)",
 			"hex" : "c7c5e6"
 		},
 		{
 			"name" : "Heroku (dark)",
 			"hex" : "6567a5"
+		},
+		{
+			"name" : "HootSuite",
+			"hex" : "003366"
+		},
+		{
+			"name" : "Houzz",
+			"hex" : "73ba37"
 		},
 		{
 			"name" : "HTML5",
@@ -471,6 +475,10 @@
 		{
 			"name" : "XBOX",
 			"hex" : "9bc848"
+		},
+		{
+			"name" : "XING",
+			"hex" : "126567"
 		},
 		{
 			"name" : "Yahoo!",
