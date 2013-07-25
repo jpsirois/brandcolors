@@ -77,6 +77,10 @@
 			"hex" : "613854"
 		},
 		{
+			"name" : "Cheddar",
+			"hex" : "ff7243"
+		},
+		{
 			"name" : "Code School",
 			"hex" : "3d4944"
 		},
@@ -339,6 +343,10 @@
 		{
 			"name" : "Red Hat",
 			"hex" : "cc0000"
+		},
+		{
+			"name" : "Resource",
+			"hex" : "7eb400"
 		},
 		{
 			"name" : "RSS",
