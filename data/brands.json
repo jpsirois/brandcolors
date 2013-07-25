@@ -425,6 +425,10 @@
 			"hex" : "ef4423"
 		},
 		{
+			"name" : "Treehouse",
+			"hex" : "bcb868"
+		},
+		{
 			"name" : "Trulia",
 			"hex" : "5eab1f"
 		},
@@ -487,6 +491,10 @@
 		{
 			"name" : "WordPress (grey)",
 			"hex" : "464646"
+		},
+		{
+			"name" : "Wunderlist",
+			"hex" : "2b88d9"
 		},
 		{
 			"name" : "XBOX",
