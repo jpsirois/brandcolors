@@ -62,7 +62,7 @@ function is_live() {
 				<input type="search" id="search" placeholder="search">
 			</div>
 			<div class="suggest">
-				<a href="&#109;&#97;&#x69;l&#116;&#x6f;&#x3a;&#103;&#97;&#x6c;&#x65;&#110;&#64;&#x67;a&#108;&#x65;&#x6e;&#103;&#105;&#x64;&#x6d;&#97;&#110;&#x2e;c&#111;&#x6d;?subject=BrandColors%20Suggestion">Suggest a Color</a>
+				<a href="me@galen.im?subject=BrandColors%20Suggestion">Suggest a Color</a>
 			</div>
 		</div>
 	</div>
