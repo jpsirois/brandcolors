@@ -213,6 +213,10 @@
 			"hex" : "ff6600"
 		},
 		{
+			"name" : "HelloWallet",
+			"hex" : "0085ca"
+		},
+		{
 			"name" : "Heroku (light)",
 			"hex" : "c7c5e6"
 		},
