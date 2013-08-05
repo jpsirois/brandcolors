@@ -277,6 +277,10 @@
 			"hex" : "cf0005"
 		},
 		{
+			"name" : "Lumo",
+			"hex" : "576396"
+		},
+		{
 			"name" : "Mixpanel",
 			"hex" : "a086d3"
 		},
@@ -353,6 +357,10 @@
 			"hex" : "7eb400"
 		},
 		{
+			"name" : "Roon",
+			"hex" : "62b0d9"
+		},
+		{
 			"name" : "RSS",
 			"hex" : "ee802f"
 		},
@@ -383,6 +391,10 @@
 		{
 			"name" : "SoundCloud",
 			"hex" : "ff7700"
+		},
+		{
+			"name" : "Space Box",
+			"hex" : "f86960"
 		},
 		{
 			"name" : "Spotify",
