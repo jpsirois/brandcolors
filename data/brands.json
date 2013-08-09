@@ -109,6 +109,10 @@
 			"hex" : "fd0001"
 		},
 		{
+			"name" : "DEWALT",
+			"hex" : "febd17"
+		},
+		{
 			"name" : "Disqus (blue)",
 			"hex" : "59a3fc"
 		},
@@ -423,6 +427,10 @@
 		{
 			"name" : "Stripe",
 			"hex" : "008cdd"
+		},
+		{
+			"name" : "StudyBlue",
+			"hex" : "00afe1"
 		},
 		{
 			"name" : "StumbleUpon",
