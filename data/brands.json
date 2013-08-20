@@ -169,6 +169,10 @@
 			"hex" : "3b5998"
 		},
 		{
+			"name" : "Firefox",
+			"hex" : "e66000"
+		},
+		{
 			"name" : "Flickr (blue)",
 			"hex" : "0063dc"
 		},
@@ -315,6 +319,10 @@
 		{
 			"name" : "NVIDIA",
 			"hex" : "76b900"
+		},
+		{
+			"name" : "Opera",
+			"hex" : "cc0f16"
 		},
 		{
 			"name" : "Path",
