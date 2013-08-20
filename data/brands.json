@@ -201,6 +201,22 @@
 			"hex" : "171515"
 		},
 		{
+			"name" : "Google Blue",
+			"hex" : "0140ca"
+		},
+		{
+			"name" : "Google Green",
+			"hex" : "16a61e"
+		},
+		{
+			"name" : "Google Red",
+			"hex" : "dd1812"
+		},
+		{
+			"name" : "Google Yellow",
+			"hex" : "fcca03"
+		},
+		{
 			"name" : "Google+",
 			"hex" : "dd4b39"
 		},
