@@ -289,6 +289,10 @@
 			"hex" : "e03500"
 		},
 		{
+			"name" : "Kodery",
+			"hex" : "00af81"
+		},
+		{
 			"name" : "LastFM",
 			"hex" : "c3000d"
 		},
