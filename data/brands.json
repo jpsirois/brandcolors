@@ -265,6 +265,10 @@
 			"hex" : "ec6231"
 		},
 		{
+			"name" : "IBM",
+			"hex" : "003e6a"
+		},
+		{
 			"name" : "IKEA",
 			"hex" : "ffcc33"
 		},
@@ -275,6 +279,10 @@
 		{
 			"name" : "Instagram",
 			"hex" : "3f729b"
+		},
+		{
+			"name" : "Instapaper",
+			"hex" : "1c1c1c"
 		},
 		{
 			"name" : "Intel",
@@ -503,6 +511,10 @@
 		{
 			"name" : "Twitter",
 			"hex" : "00acee"
+		},
+		{
+			"name" : "Typekit",
+			"hex" : "9aca3c"
 		},
 		{
 			"name" : "TYPO3",
