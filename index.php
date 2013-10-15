@@ -68,7 +68,10 @@ function is_live() {
 	</div>
 
 	<div class="main container" role="main">
-		<?php foreach( json_decode( file_get_contents( 'data/brands.json' ) )->data as $brand ) : ?>
+		<?php
+			$brands = json_decode( file_get_contents( 'data/brands.json' ) )->data;
+			foreach( $brands as $brand ) :
+		?>
 			<div class="color cf" data-brand="<?php echo $brand->name; ?>" data-hex="<?php echo $brand->hex; ?>" style="background-color: #<?php echo $brand->hex; ?>">
 				<h2><?php echo $brand->name; ?></h2>
 				<div class="hex">#<?php echo $brand->hex; ?></div>
@@ -76,10 +79,12 @@ function is_live() {
 		<?php endforeach; ?>
 	</div>
 
-	<div class="ad">
-		<div id="bsap_1280945" class="bsarocks bsap_22541cc0a58ea22a6fb6e7f09c3011c3"></div>
-		<a href="http://adpacks.com" class="bsap_aplink">via Ad Packs</a>
-	</div>
+	<?php if ( is_live() ) : ?>
+		<div class="ad">
+			<div id="bsap_1280945" class="bsarocks bsap_22541cc0a58ea22a6fb6e7f09c3011c3"></div>
+			<a href="http://adpacks.com" class="bsap_aplink">via Ad Packs</a>
+		</div>
+	<?php endif; ?>
 
 	<?php if ( is_live() ) : ?>
 		<script>
