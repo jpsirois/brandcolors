@@ -26,15 +26,17 @@ function is_live() {
 </head>
 <body>
 
-	<script>
-		(function(){
-			var bsa = document.createElement('script');
-				bsa.type = 'text/javascript';
-				bsa.async = true;
-				bsa.src = '//s3.buysellads.com/ac/bsa.js';
-			(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
-		})();
-	</script>
+	<?php if ( is_live() ) : ?>
+		<script>
+			(function(){
+				var bsa = document.createElement('script');
+					bsa.type = 'text/javascript';
+					bsa.async = true;
+					bsa.src = '//s3.buysellads.com/ac/bsa.js';
+				(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+			})();
+		</script>
+	<?php endif; ?>
 
 	<div class="page-header container cf" role="banner">
 			<h1>BrandColors</h1>
