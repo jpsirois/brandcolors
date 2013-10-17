@@ -409,6 +409,14 @@
 			"hex" : "cc0000"
 		},
 		{
+			"name" : "Reddit (blue)",
+			"hex" : "cee2f8"
+		},
+		{
+			"name" : "Reddit (orange)",
+			"hex" : "ff4500"
+		},
+		{
 			"name" : "Resource",
 			"hex" : "7eb400"
 		},
