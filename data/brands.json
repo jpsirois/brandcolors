@@ -325,6 +325,14 @@
 			"hex" : "576396"
 		},
 		{
+			"name" : "Makita (red)",
+			"hex" : "d82028"
+		},
+		{
+			"name" : "Makita (blue)",
+			"hex" : "29a0b7"
+		},
+		{
 			"name" : "Mixpanel",
 			"hex" : "a086d3"
 		},
